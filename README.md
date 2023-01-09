@@ -10,7 +10,9 @@
 
 ## :purple_heart: 직책: 팀원
 
-## :purple_heart: 담당 역할/ 기여도: UI/UX, CSS, JSP, JS/JQ / 기여도: 20%(팀원 06명)
+## :purple_heart: 담당 역할/ 기여도<br/>
+### 담당 역할: UI/UX, CSS, JSP, JS/JQ <br/>
+### 기여도: 20%(팀원 06명)
 
 ## :purple_heart: 구현 기능
 관리자 <br/>
