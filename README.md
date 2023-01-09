@@ -2,7 +2,8 @@
 
 ![ToolLibrary](https://user-images.githubusercontent.com/89379902/211279145-64180acb-fd8f-4255-93bc-b9a0f55eb7ac.png)
 
-포트폴리오 => [2조_WEB_공구도서관 ppt  (1) (1).pptx](https://github.com/jisun22/ToolLibrary/files/10343058/2._WEB_.ppt.1.1.pptx)
+## :purple_heart: Portfolio
+### Click!!! :point_right: [2조_WEB_공구도서관 ppt  (1) (1).pptx](https://github.com/jisun22/ToolLibrary/files/10343058/2._WEB_.ppt.1.1.pptx)
 
 
 ## :purple_heart: 프로젝트 명: ToolLibrary
