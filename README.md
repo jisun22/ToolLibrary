@@ -26,6 +26,11 @@
 비밀번호변경 <br/>
 마이페이지
 
+
+## :purple_heart :pencil2:Language:pencil2:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisun22&langs_count=8)](https://github.com/jisun22/github-readme-stats)
+
 ## 🔧 :wrench: 프로젝트 시 활용한 대표 기술 🔧 :wrench:
 *********************************************
 ### ✔️ 백엔드
