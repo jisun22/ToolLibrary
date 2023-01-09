@@ -5,14 +5,21 @@
 ## :purple_heart: Portfolio
 ### Click!!! :point_right: [2조_WEB_공구도서관 ppt  (1) (1).pptx](https://github.com/jisun22/ToolLibrary/files/10343058/2._WEB_.ppt.1.1.pptx)
 
+*********************************************
 
 ## :purple_heart: 프로젝트 명: ToolLibrary
 
+*********************************************
+
 ## :purple_heart: 직책: 팀원
+
+*********************************************
 
 ## :purple_heart: 담당 역할/ 기여도<br/>
 ### 담당 역할: UI/UX, CSS, JSP, JS/JQ <br/>
 ### 기여도: 20%(팀원 06명)
+
+*********************************************
 
 ## :purple_heart: 구현 기능
 관리자 <br/>
@@ -26,9 +33,10 @@
 비밀번호변경 <br/>
 마이페이지
 
+*********************************************
 
 ## 🔧 :wrench: 프로젝트 시 활용한 대표 기술 🔧 :wrench:
-*********************************************
+
 ### ✔️ 백엔드
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow"><img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -42,4 +50,4 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <br/>
 ### ✔️ 개발툴: eclipse, Visual Studio Code
-*********************************************
+
