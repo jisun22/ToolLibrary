@@ -22,16 +22,15 @@
 *********************************************
 
 ## :purple_heart: 구현 기능
-관리자 <br/>
-관리자 신고 화면 <br/>
-관리자 통계화면 <br/>
-관리자 대여/반납관리 <br/>
-사용자 <br/>
-로그인/로그아웃 <br/>
-대여하기 <br/>
-게시판(자유게시판, 문의게시판, 자주묻는질문) <br/>
-비밀번호변경 <br/>
-마이페이지
+- 공지사항: 검색 및 검색옵션, 조회수/등록일, 글 링크, 페이지, 글쓰기 <br/>
+- 공구검색/예약: 검색, 정렬, 공구 정보, 예약하기 <br/>
+- 예약 내역 조회: 내 정보, 내가 쓴 글, 대여한 공구 <br/> 
+- 게시판(자유, 문의, QnA): 자유게시판, 문의게시판, 검색 및 검색 옵션, 조회수/등록일, 글 링크, 페이지, 글쓰기 <br/>
+- 관리자페이지: 신고게시판, 통계 자료 <br/>
+- 로그인 <br/> 
+- 로그아웃 <br/> 
+- 마이페이지(내 정보, 내가 쓴 글, 예약조회): 대여조회, 내가 쓴 글, 비밀번호변경 <br/>
+
 
 *********************************************
 
@@ -49,5 +48,12 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <br/>
-### ✔️ 개발툴: eclipse, Visual Studio Code
-
+### ✔️ 개발툴
+### OS:
+Windows10/ <br/>
+### Server:
+NaverColudPlayForm /Apache Tomcat8.5 / Slack <br/>
+### Framework:
+Spring/ Bootsrap / Mybatis3 / Visual Studio <br/>
+### Database:
+Oracle 
